@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    This repository includes [GitHub discussions](https://github.com/orgs/econumo/discussions)
+    This repository includes <a href="https://github.com/orgs/econumo/discussions">GitHub discussions</a>
 </p>
 
 ---
