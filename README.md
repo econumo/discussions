@@ -1,2 +1,3 @@
-# discussions
-Github Discussions
+# GitHub discussions
+
+This repository contains GitHub discussions
