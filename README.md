@@ -11,7 +11,7 @@
 ---
 
 > [!NOTE]
-> **Econumo One** is funded by our `GitHub Sponsors` and `Econumo Cloud` subscribers.
+> **Econumo One** is funded by our `GitHub Sponsors` and `Econumo` subscribers.
 >
 > If you know someone who might [find Econumo useful](https://econumo.com/?utm_medium=Social&utm_source=GitHub&utm_campaign=readme), we'd appreciate if you'd let them know.
 
